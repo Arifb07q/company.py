@@ -1,1 +1,5 @@
-# company.py
+- Add new employees (developers and managers)
+- Remove employees
+- Calculate salaries with custom raise amounts for developers and managers
+- Manage employees under a manager
+- Print a list of employees managed by a manager
